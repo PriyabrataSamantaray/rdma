@@ -1,9 +1,7 @@
 <Context path="/rdma" docBase="gdma2">
-
 	<!-- maxActive: Maximum number of database connections in pool. Make sure 
 		you configure your mysqld max_connections large enough to handle all of your 
 		db connections. Set to -1 for no limit. -->
-
 	<!-- maxIdle: Maximum number of idle database connections to retain in pool. 
 		Set to -1 for no limit. See also the DBCP documentation on this and the minEvictableIdleTimeMillis 
 		configuration parameter. -->
